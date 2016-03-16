@@ -1,7 +1,13 @@
+Endless Breakout requires python and pygame. Download links:
+
+Python 2.7: https://www.python.org/downloads/
+
+Pygame: http://www.pygame.org/download.shtml
+
 How to play:
 Endless Breakout is like regular Breakout, but with a few simple twists.
 Instead of destroying bricks, the objective of the game is to survive as long as possible.
-The longer you survive, the more points you’ll score. New balls spawn every 10 seconds.
+The longer you survive, the more points youâ€™ll score. New balls spawn every 10 seconds.
 Let any ball go out of bounds and it is game over. Using the mouse, your paddle is able to move
 anywhere on the screen, not just the bottom. In addition, your paddle comes equipped with two
 special abilities: Left click increases your score faster, but also increases the speed of
