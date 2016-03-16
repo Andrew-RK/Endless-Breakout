@@ -28,7 +28,7 @@ Energy is displayed on the statsSurface
 
 -New DEBUGMODE command:
 
-  'x': Spawns 100 balls.
+	'x': Spawns 100 balls.
 
 -Misc small fixes
 
