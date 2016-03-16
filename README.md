@@ -12,12 +12,19 @@ the balls. Right click slows the balls down, but also consumes energy. Use your 
 
 
 Planned future updates:
+
  -Physics rework
+ 
  -Better graphics
+ 
  -Sound and music
+ 
  -Menus
+ 
  -Customizable controls
+ 
  -Save highscore between play sessions
+ 
  -Gameplay tweaks and balances
 
 
