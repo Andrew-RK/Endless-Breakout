@@ -18,13 +18,9 @@ Planned future updates:
  -Better graphics
  
  -Sound and music
- 
  -Menus
- 
  -Customizable controls
- 
  -Save highscore between play sessions
- 
  -Gameplay tweaks and balances
 
 
