@@ -28,7 +28,7 @@ Energy is displayed on the statsSurface
 
 -New DEBUGMODE command:
 
-'x': Spawns 100 balls.
+  'x': Spawns 100 balls.
 
 -Misc small fixes
 
@@ -40,33 +40,29 @@ Version 0.1:
 
 -statsSurface shows the following stats:
 
-highscore
+  highscore
 
-score
+  score
 
-number of balls in play
+  number of balls in play
 
-time survived
+  time survived
 
--Improved DEBUGMODE. When DEBUGMODE is on, it enables the following
+-Improved DEBUGMODE. When DEBUGMODE is on, it enables the following commands:
 
-commands:
+  'g': Enables godMode. Prevents balls from going out of bounds and freezes score value at 0.
 
-'g': Enables godMode. Prevents balls from going out of bounds and freezes
+  'b': Spawns a new ball.
 
-score value at 0.
+ DEBUGMODE also displays the following variables on the statsSurface:
 
-'b': Spawns a new ball.
+  FPS
 
-DEBUGMODE also displays the following variables on the statsSurface:
+  current frame
 
-FPS
+  godMode
 
-current frame
-
-godMode
-
-mouse position
+  mouse position
 
 -Improved game over screen.
 
@@ -82,6 +78,4 @@ Version 0.02:
 
 Version 0.01:
 
--First stable build. New balls spawn every 10 seconds. Game ends when a ball
-
-goes out of bounds.
+-First stable build. New balls spawn every 10 seconds. Game ends when a ball goes out of bounds.
