@@ -1,3 +1,9 @@
+Endless Breakout requires python and pygame in order to run. If you don’t have them installed on your computer, here’s where to get them:
+
+Python 2.7: https://www.python.org/downloads/
+
+Pygame: http://www.pygame.org/download.shtml
+
 How to play:
 Endless Breakout is like regular Breakout, but with a few simple twists.
 Instead of destroying bricks, the objective of the game is to survive as long as possible.
