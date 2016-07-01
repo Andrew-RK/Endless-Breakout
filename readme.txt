@@ -97,9 +97,5 @@ Version 0.01:
 
 
 Gameplay observations:
--I'm usually unable to see my energy meter while playing, because my eyes are on the playfield. I'm going to draw an energy
-bar onto the paddle to see if that helps. Another game called Alphabounce actually has a similar feature to this for certain
-power-ups.
--To my surprise, the v0.3 physics overhaul actually makes it harder to keep the balls in play. I think this is because the
-ball movement was more predictable before. Also, it is hard to control what part of the paddle a ball hits when you have
-several or more balls to keep track of. I've lowered the speed slightly in v0.3.1 to compensate.
+-I'm usually unable to see my energy meter while playing, because my eyes are on the playfield. I'm going to draw an energy bar onto the paddle to see if that helps. Another game called Alphabounce actually has a similar feature to this for certain power-ups.
+-To my surprise, the v0.3 physics overhaul actually makes it harder to keep the balls in play. I think this is because the ball movement was more predictable before. Also, it is hard to control what part of the paddle a ball hits when you have several or more balls to keep track of. I've lowered the speed slightly in v0.3.1 to compensate.
